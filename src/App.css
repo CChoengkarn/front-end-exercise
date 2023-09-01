@@ -1,0 +1,136 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* .App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+} */
+
+
+/* .side-header, .header  {
+  text-align: left;
+  font-size: 25px;
+  letter-spacing: 9px;
+  font-weight: bold;
+}
+
+.side-header, img {
+  padding-top: 10px;
+} */
+
+/* p.sizeOne {
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding-left: 50px;
+} */
+
+
+
+/* hr {
+  border-bottom: 1px solid;
+} */
+
+/* hr, .half-width {
+  width: 43%;
+  margin-left: 10px;
+}
+  */
+
+/* ul, li {
+  list-style-type: none;
+  padding-top: 15px;
+  text-align: left;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding-left: 2px;
+  margin-left: 5px;
+} */
+
+/* .image {
+  padding-left: 25px;
+} */
+
+/* .caption-section {
+  text-align: left;
+} */
+
+/* .caption-section, .p2 {
+  font-size: 18px;
+  font-weight: 500;
+} */
+
+
+
+/* .paragraph {
+  margin-left: 25px;
+  max-width:320px;
+} */
+
+/* .video-player {
+  position:relative;
+} */
+
+
+/* .answer-a { */
+  /* color: rgb(228, 66, 160); 
+  float: left;
+  font-size: 19px; */
+  /* border: 1px solid black; */
+  /* text-align: center; */
+  /* border-radius: 250px; */
+  /* padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 28px;
+  padding-right: 25px;  */
+  /* margin-left: 40px; */
+/* }  */
+
+
+
+/* .answer-b { */
+  /* color: rgb(32, 224, 151); 
+  float: right;
+  font-size: 19px; */
+  /* border: 1px solid black; */
+  /* text-align: center; */
+  /* border-radius: 250px; */
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
+  /* padding-left: 25px;
+  padding-right: 20px; */
+  /* margin-right: 150px;  */
+/* } */
